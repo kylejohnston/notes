@@ -1,4 +1,6 @@
 ## Goto
+| Shortcut | Action |
+| -------- | ------ |
 | Command-Shift-Space | Goto Anything |
 | Control-G | Goto line |
 
