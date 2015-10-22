@@ -1,7 +1,7 @@
 # Current Mac Apps
 
 ## OS
-OS X El Capitan 10.11
+OS X El Capitan 10.11.1
 
 ## Current Apps
 | App Name | Purpose |
@@ -47,6 +47,7 @@ OS X El Capitan 10.11
 | Rdio | |
 | RingCentral for Mac | |
 | RingCentral Meetings | |
+| Skype | |
 | Slack | |
 | Spectacle | Window resizing |
 | Sublime Text | |
@@ -55,3 +56,4 @@ OS X El Capitan 10.11
 | Tomighty | Pomodoro timer |
 | Transmit | FTP |
 | Tweetbot | |
+| Node | https://nodejs.org/en/ |
