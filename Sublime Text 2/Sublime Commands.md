@@ -28,6 +28,8 @@
 - Processing
 - SublimeLinter
 - MarkdownEditing
+- Color scheme: Materialize
+- Color scheme: Predawn
 
 **Location**  
 ~/Library/Application Support/Sublime Text 2/
