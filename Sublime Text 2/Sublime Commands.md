@@ -29,7 +29,7 @@
 - SublimeLinter
 - MarkdownEditing
 - Color scheme: Materialize
-- Color scheme: Predawn
+- Color scheme: [Predawn](http://jamiewilson.io/predawn/)
 
 **Location**  
 ~/Library/Application Support/Sublime Text 2/
