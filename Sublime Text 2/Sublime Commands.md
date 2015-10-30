@@ -33,3 +33,14 @@
 
 **Location**  
 ~/Library/Application Support/Sublime Text 2/
+
+
+## User Preferences
+{
+    "color_scheme": "Packages/User/SublimeLinter/predawn (SL).tmTheme",
+    "theme": "predawn.sublime-theme",
+    "predawn_tabs_active_underline": true,
+    "predawn_tabs_medium": true,
+    "font_size": 16.0,
+    "open_files_in_new_window": false,
+}
