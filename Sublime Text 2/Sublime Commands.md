@@ -24,23 +24,26 @@
 
 - Package Control
 - Materialize (color scheme)
-- Hex to RGB Converter - Shift-Command-R
 - Processing
-- SublimeLinter
 - MarkdownEditing
 - Color scheme: Materialize
 - Color scheme: [Predawn](http://jamiewilson.io/predawn/)
 
 **Location**  
-~/Library/Application Support/Sublime Text 2/
+~/Library/Application Support/Sublime Text 3/
 
 
 ## User Preferences
 {
     "color_scheme": "Packages/User/SublimeLinter/predawn (SL).tmTheme",
-    "theme": "predawn.sublime-theme",
+    "font_size": 17.0,
+    "ignored_packages":
+    [
+        "Markdown",
+        "Vintage"
+    ],
+    "open_files_in_new_window": false,
     "predawn_tabs_active_underline": true,
     "predawn_tabs_medium": true,
-    "font_size": 16.0,
-    "open_files_in_new_window": false,
+    "theme": "predawn.sublime-theme"
 }
