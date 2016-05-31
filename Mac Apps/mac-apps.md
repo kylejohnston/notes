@@ -53,7 +53,6 @@ OS X El Capitan 10.11.5
 | Processing 3.0b7 | |
 | Quitter | Automatically hides or quits apps after periods of inactivity |
 | RingCentral for Mac | |
-| RingCentral Meetings | |
 | Skype | |
 | Slack | |
 | Soundnode | Desktop client for SoundCloud |
