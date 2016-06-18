@@ -38,6 +38,7 @@ OS X El Capitan 10.11.5
 | Google Chrome | |
 | GoToMeeting | |
 | Helium | Small, floating window for viewing videos (multitasking) |
+| ImageOptim | Image compression |
 | Keyboard Maestro | Custom keyboard commands |
 | Keynote | |
 | MAMP | |
