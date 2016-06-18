@@ -19,7 +19,9 @@
 | -------- | ------ |
 | Command-Option-/ | Add comment |
 | Command-Option-. | Close tag |
-| Command-Shift-R | Covert Hex to RGB |
+| Command-Shift-D | Duplicate selection |
+| Command-Control-↑ or ↓ | Move a line up or down |
+
 
 ## Packages
 
