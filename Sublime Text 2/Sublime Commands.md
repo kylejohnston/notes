@@ -1,7 +1,8 @@
 ## Goto
 | Shortcut | Action |
 | -------- | ------ |
-| Command-Shift-Space | Goto Anything |
+| Command-P | Goto Anything - Type part of a file name to open it. Type @ to jump to symbols, # to search within the file, and : to go to a line number.
+| Command-Shift-P | The Command Palette holds infrequently used functionality, like sorting, changing the syntax and changing the indentation settings. |
 | Control-G | Goto line |
 
 ## Select Commands
@@ -10,7 +11,7 @@
 | Option-click | Place caret / multi-line edit |
 | Command-Shift-Space | Select scope (block/paragraph) |
 | Command-Shift-A | Select tag contents |
-| Command-D | Select word |
+| Command-D | Select next occurance of the same word |
 | Control-Command-G | Select all matching words |
 
 ## Other
