@@ -22,6 +22,7 @@ OS X El Capitan 10.11.5
 | Bartender 2 | Manage Mac menu bar |
 | BBEdit | |
 | Boom 2 | Audio enhancer |
+| Choosy | System preference; select from multiple browsers |
 | Cloak | |
 | Color Oracle | Color blindness simulator |
 | Display Rotation Menu | Manage display rotation for multiple monitors |
@@ -37,6 +38,7 @@ OS X El Capitan 10.11.5
 | GitHub Desktop | |
 | Google Chrome | |
 | GoToMeeting | |
+| HazeOver | Dims all background windows |
 | Helium | Small, floating window for viewing videos (multitasking) |
 | ImageOptim | Image compression |
 | Keyboard Maestro | Custom keyboard commands |
@@ -50,8 +52,7 @@ OS X El Capitan 10.11.5
 | Microsoft Word | |
 | Numbers | |
 | Numi | Natural language calculator |
-| Processing | |
-| Processing 3.0b7 | |
+| Processing 3 | |
 | Quitter | Automatically hides or quits apps after periods of inactivity |
 | RingCentral for Mac | |
 | Skype | |
