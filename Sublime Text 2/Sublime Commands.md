@@ -29,8 +29,10 @@
 - Materialize (color scheme)
 - Processing
 - MarkdownEditing
+- SublimeLinter
 - Color scheme: Materialize
 - Color scheme: [Predawn](http://jamiewilson.io/predawn/)
+- [Gist](https://packagecontrol.io/packages/Gist)
 
 **Location**  
 ~/Library/Application Support/Sublime Text 3/
@@ -38,7 +40,7 @@
 
 ## User Preferences
 {
-    "color_scheme": "Packages/User/SublimeLinter/predawn (SL).tmTheme",
+    "color_scheme": "Packages/User/SublimeLinter/Dracula (SL).tmTheme",
     "font_size": 17.0,
     "ignored_packages":
     [
@@ -48,5 +50,9 @@
     "open_files_in_new_window": false,
     "predawn_tabs_active_underline": true,
     "predawn_tabs_medium": true,
-    "theme": "predawn.sublime-theme"
+    "theme": "predawn.sublime-theme",
+    "caret_style": "phase",
+    "highlight_line": true,
+    "line_padding_bottom": 1, "line_padding_top": 1
+
 }
