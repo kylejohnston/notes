@@ -64,4 +64,5 @@ OS X El Capitan 10.11.5
 | Things | Manage to-dos |
 | Timebar | Set a timer |
 | Transmit | FTP |
+| TunnelBear | VPN https://www.tunnelbear.com/apps/mac?ref=producthunt |
 | Tweetbot | |
