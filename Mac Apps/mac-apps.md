@@ -23,8 +23,6 @@ OS X El Capitan 10.11.5
 | BBEdit | |
 | Boom 2 | Audio enhancer |
 | Choosy | System preference; select from multiple browsers |
-| Cloak | |
-| Color Oracle | Color blindness simulator |
 | Display Rotation Menu | Manage display rotation for multiple monitors |
 | Dropbox | |
 | Droplr | |
@@ -32,14 +30,12 @@ OS X El Capitan 10.11.5
 | Evernote | |
 | Fantastical 2 | |
 | Firefox | |
-| Flux | |
 | Frank DeLoupe | Color picker / loupe |
 | GIFs | |
 | GitHub Desktop | |
 | Google Chrome | |
 | GoToMeeting | |
 | HazeOver | Dims all background windows |
-| Helium | Small, floating window for viewing videos (multitasking) |
 | ImageOptim | Image compression |
 | Keyboard Maestro | Custom keyboard commands |
 | Keynote | |
@@ -53,7 +49,6 @@ OS X El Capitan 10.11.5
 | Numbers | |
 | Numi | Natural language calculator |
 | Processing 3 | |
-| RingCentral for Mac | |
 | Skype | |
 | Slack | |
 | Soundnode | Desktop client for SoundCloud |
