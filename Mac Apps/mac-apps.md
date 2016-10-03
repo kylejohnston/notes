@@ -53,7 +53,6 @@ OS X El Capitan 10.11.5
 | Numbers | |
 | Numi | Natural language calculator |
 | Processing 3 | |
-| Quitter | Automatically hides or quits apps after periods of inactivity |
 | RingCentral for Mac | |
 | Skype | |
 | Slack | |
