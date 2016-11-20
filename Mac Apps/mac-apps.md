@@ -1,62 +1,66 @@
 # Current Mac Apps
 
 ## OS
-OS X El Capitan 10.11.5
+OS X El Capitan 10.11.6
 
 ## Current Apps
 | App Name | Purpose |
 | -------- | ------- |
-| 1 Password 5 | |
-| Adobe Acrobat DC | |
+| [Dropbox](https://www.dropbox.com) | File syncing |
+| [1Password](https://1password.com/downloads/) | Password manager |
+| [Alfred 3](https://www.alfredapp.com) | Productivity and efficiency |
 | Adobe Creative Cloud | |
-| Adobe Experience Design | |
-| Adobe Illustrator CC 2015 | |
-| Adobe InDesign CC 2015 | |
-| Adobe Media Encoder CC 2015 | |
-| Adobe Photoshop CC 2015 | |
-| Adobe Premiere Pro CC 2015 | |
-| Alfred 3 | |
-| Amazon Cloud Drive | |
-| AppCleaner | Removes apps + associated system files |
-| Audacity | Removes apps + associated system files |
-| Bartender 2 | Manage Mac menu bar |
-| BBEdit | |
-| Boom 2 | Audio enhancer |
+| Adobe Acrobat DC | |
+| Adobe Illustrator CC | |
+| Adobe InDesign CC | |
+| Adobe Media Encoder CC | |
+| Adobe Photoshop CC | |
+| Adobe Premiere Pro CC | |
+| [AppCleaner](https://freemacsoft.net/appcleaner/) | Removes apps + associated system files |
+| Audacity | |
+| [Bartender 2](https://www.macbartender.com) | Manage Mac menu bar |
+| [Boom 2](http://www.globaldelight.com/boom/index.php) | Audio enhancer |
 | Choosy | System preference; select from multiple browsers |
-| Display Rotation Menu | Manage display rotation for multiple monitors |
-| Dropbox | |
-| Droplr | |
-| Ember | Save images for later |
-| Evernote | |
 | Fantastical 2 | |
-| Firefox | |
 | Frank DeLoupe | Color picker / loupe |
-| GIFs | |
 | GitHub Desktop | |
 | Google Chrome | |
-| GoToMeeting | |
 | HazeOver | Dims all background windows |
 | ImageOptim | Image compression |
-| Keyboard Maestro | Custom keyboard commands |
+| [Keyboard Maestro](https://www.keyboardmaestro.com/main/) | Custom keyboard commands |
 | Keynote | |
-| MAMP | |
-| Marked 2 | View / stylize markdown files |
+| [MAMP](https://www.mamp.info/en/downloads/) | |
+| [Marked 2](http://marked2app.com) | View / stylize markdown files |
 | Microsoft Excel | |
 | Microsoft Office 2011 | |
 | Microsoft Outlook | |
 | Microsoft PowerPoint | |
 | Microsoft Word | |
 | Numbers | |
-| Numi | Natural language calculator |
+| [Numi](http://numi.io) | Natural language calculator |
 | Processing 3 | |
 | Skype | |
-| Slack | |
 | Soundnode | Desktop client for SoundCloud |
-| Spectacle | Window resizing |
+| [Spectacle](https://www.spectacleapp.com) | Window resizing |
 | Spotify | |
-| Sublime Text | |
-| Things | Manage to-dos |
+| [Sublime Text](https://www.sublimetext.com) | |
+| [Things](https://culturedcode.com/things/) | Manage to-dos |
+| [Transmit](https://panic.com/transmit/) | FTP |
+
+## Retired Apps
+| App Name | Purpose |
+| -------- | ------- |
+| Adobe Experience Design | |
+| Amazon Cloud Drive | |
+| BBEdit | |
+| Display Rotation Menu | Manage display rotation for multiple monitors |
+| Droplr | |
+| Ember | Save images for later |
+| Evernote | |
+| Firefox | |
+| GIFs | |
+| GoToMeeting | |
+| Slack | |
 | Timebar | Set a timer |
-| Transmit | FTP |
 | TunnelBear | VPN https://www.tunnelbear.com/apps/mac?ref=producthunt |
 | Tweetbot | |
