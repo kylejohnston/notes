@@ -38,7 +38,6 @@ OS X El Capitan 10.11.6
 | Microsoft Word | |
 | Numbers | |
 | [Numi](http://numi.io) | Natural language calculator |
-| Processing 3 | |
 | Skype | |
 | Soundnode | Desktop client for SoundCloud |
 | [Spectacle](https://www.spectacleapp.com) | Window resizing |
@@ -60,6 +59,7 @@ OS X El Capitan 10.11.6
 | Firefox | |
 | GIFs | |
 | GoToMeeting | |
+| Processing 3 | |
 | Slack | |
 | Timebar | Set a timer |
 | TunnelBear | VPN https://www.tunnelbear.com/apps/mac?ref=producthunt |
