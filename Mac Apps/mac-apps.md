@@ -21,7 +21,7 @@ OS X El Capitan 10.11.6
 | [Bartender 2](https://www.macbartender.com) | Manage Mac menu bar |
 | [Boom 2](http://www.globaldelight.com/boom/index.php) | Audio enhancer |
 | Choosy | System preference; select from multiple browsers |
-| Fantastical 2 | |
+| [Fantastical 2](https://flexibits.com/fantastical) | |
 | Frank DeLoupe | Color picker / loupe |
 | GitHub Desktop | |
 | Google Chrome | |
