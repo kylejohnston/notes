@@ -26,11 +26,9 @@
 ## Packages
 
 - Package Control
-- Materialize (color scheme)
 - Processing
 - MarkdownEditing
 - SublimeLinter
-- Color scheme: Materialize
 - Color scheme: [Predawn](http://jamiewilson.io/predawn/)
 - [Gist](https://packagecontrol.io/packages/Gist)
 
@@ -40,19 +38,17 @@
 
 ## User Preferences
 {
-    "color_scheme": "Packages/User/SublimeLinter/Dracula (SL).tmTheme",
-    "font_size": 17.0,
-    "ignored_packages":
-    [
-        "Markdown",
-        "Vintage"
-    ],
-    "open_files_in_new_window": false,
-    "predawn_tabs_active_underline": true,
-    "predawn_tabs_medium": true,
-    "theme": "predawn.sublime-theme",
-    "caret_style": "phase",
-    "highlight_line": true,
-    "line_padding_bottom": 1, "line_padding_top": 1
-
+    "caret_style": "phase",  
+    "color_scheme": "Packages/Predawn/predawn.tmTheme",  
+    "font_size": 17.0,  
+    "highlight_line": true,  
+    "ignored_packages":  
+    [  
+    ],  
+    "line_padding_bottom": 1,  
+    "line_padding_top": 1,  
+    "open_files_in_new_window": false,  
+    "predawn_tabs_active_underline": true,  
+    "predawn_tabs_medium": true,  
+    "theme": "predawn.sublime-theme"  
 }
