@@ -17,7 +17,7 @@ OS X El Capitan 10.11.6
 | Adobe Photoshop CC | |
 | Adobe Premiere Pro CC | |
 | [AppCleaner](https://freemacsoft.net/appcleaner/) | Removes apps + associated system files |
-| Audacity | |
+| [Audacity](http://www.audacityteam.org/download/mac/) | |
 | [Bartender 2](https://www.macbartender.com) | Manage Mac menu bar |
 | [Boom 2](http://www.globaldelight.com/boom/index.php) | Audio enhancer |
 | Choosy | System preference; select from multiple browsers |
