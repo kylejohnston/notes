@@ -9,7 +9,7 @@ OS X El Capitan 10.11.6
 | [Dropbox](https://www.dropbox.com) | File syncing |
 | [1Password](https://1password.com/downloads/) | Password manager |
 | [Alfred 3](https://www.alfredapp.com) | Productivity and efficiency |
-| Adobe Creative Cloud | |
+| [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) | |
 | Adobe Acrobat DC | |
 | Adobe Illustrator CC | |
 | Adobe InDesign CC | |
