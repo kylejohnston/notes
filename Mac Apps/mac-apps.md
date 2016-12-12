@@ -37,7 +37,7 @@ OS X El Capitan 10.11.6
 | Microsoft Outlook | |
 | Microsoft PowerPoint | |
 | Microsoft Word | |
-| [MOOM](https://manytricks.com/moom/) | Window management |
+| [MOOM](https://manytricks.com/moo) | Window management |
 | Numbers | |
 | [Numi](http://numi.io) | Natural language calculator |
 | Skype | |
