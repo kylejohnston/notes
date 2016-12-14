@@ -1,7 +1,9 @@
 # Reading List
 
+A simple list of books I've read, organized by year. Each item includes the book title with a link to wherever I purchase it (usually Amazon), the author, the year published, and the format I read it in.
+
 ## 2016
-| Book | Author | Published | Format |
+| Title | Author | Published | Format |
 | -------- | ------- | ------- | ------- |
 | [*Sapiens, A Brief History of Humankind*](http://amzn.to/2gBWFmZ) | Yuval Noah Harari | 2015 | Kindle |
 | [*Branding in five and a half steps.*](http://amzn.to/2hmpw2L) | Michael Johnson | 2016 | Hardcover |
@@ -23,7 +25,7 @@
 | [*It's Not How Good You Are, It's How Good You Want To Be*](http://amzn.to/2gBFl1D) | Paul Arden | 2003 | Kindle |
 
 ## 2015
-| Book | Author | Published | Format |
+| Title | Author | Published | Format |
 | -------- | ------- | ------- | ------- |
 | *The Martian* | Andy Weir | 2011 | Kindle |
 | *The House of Wigs* | Joshua Allen | 2015 | Kindle |
@@ -36,14 +38,14 @@
 | *Agency: Starting a Creative Firm in the Age of Digital Marketing* | Rick Webb | 2015 | Hardcover |
 
 ## 2014
-| Book | Author | Published | Format |
+| Title | Author | Published | Format |
 | -------- | ------- | ------- | ------- |
 | *The Levitan Pitch. Buy This Book. Win More Pitches.* | Peter Levitan | 2014 | Kindle |
 | *Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration* | Ed Catmull | 2009 | Kindle |
 | *Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered* | Austin Kleon | 2014 | Kindle |
 
 ## 2013
-| Book | Author | Published | Format |
+| Title | Author | Published | Format |
 | -------- | ------- | ------- | ------- |
 | *The Levitan Pitch. Buy This Book. Win More Pitches.* | Peter Levitan | 2014 | Kindle |
 | *The Curious Case of Benjamin Button* | F. Scott Fitzgerald | 1922 | Kindle |
