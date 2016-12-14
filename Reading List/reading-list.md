@@ -27,30 +27,29 @@ A simple list of books I've read, organized by year. Each item includes the book
 ## 2015
 | Title | Author | Published | Format |
 | -------- | ------- | ------- | ------- |
-| *The Martian* | Andy Weir | 2011 | Kindle |
-| *The House of Wigs* | Joshua Allen | 2015 | Kindle |
-| *The 4-Hour Workweek* | Timothy Ferris | 2007 | Kindle |
-| *Paid Attention: Innovative Advertising for a Digital World* | Faris Yakob |  2015 | Kindle |
-| *The Art of Looking Sideways* | Alan Fletcher | 2001 | Hardcover |
-| *Seducing Strangers, How to Get People to Buy What You're Selling (The Little Black Book of Advertising Secrets)* | Josh Weltman | 2015 | Kindle |
-| *The Idea Writers* | Teressa Iezzi | 2010 | Kindle |
-| *How Google Works* | Eric Schmidt, Jonathan Rosenberg | 2014 | Kindle |
-| *Agency: Starting a Creative Firm in the Age of Digital Marketing* | Rick Webb | 2015 | Hardcover |
+| [*The Martian*](http://amzn.to/2hOMTil) | Andy Weir | 2011 | Kindle |
+| [*The House of Wigs*](http://amzn.to/2hwQouq) | Joshua Allen | 2015 | Kindle |
+| [*The 4-Hour Workweek*](http://amzn.to/2hwQvqb) | Timothy Ferris | 2007 | Kindle |
+| [*Paid Attention: Innovative Advertising for a Digital World*](http://amzn.to/2huDNLv) | Faris Yakob |  2015 | Kindle |
+| [*The Art of Looking Sideways*](http://amzn.to/2gK8oVG) | Alan Fletcher | 2001 | Hardcover |
+| [*Seducing Strangers, How to Get People to Buy What You're Selling (The Little Black Book of Advertising Secrets)*](http://amzn.to/2hOMdK4) | Josh Weltman | 2015 | Kindle |
+| [*The Idea Writers*](http://amzn.to/2gK9d0t) | Teressa Iezzi | 2010 | Kindle |
+| [*How Google Works*](http://amzn.to/2hxziNL) | Eric Schmidt, Jonathan Rosenberg | 2014 | Kindle |
+| [*Agency: Starting a Creative Firm in the Age of Digital Marketing*](http://amzn.to/2gKah4z) | Rick Webb | 2015 | Hardcover |
 
 ## 2014
 | Title | Author | Published | Format |
 | -------- | ------- | ------- | ------- |
-| *The Levitan Pitch. Buy This Book. Win More Pitches.* | Peter Levitan | 2014 | Kindle |
-| *Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration* | Ed Catmull | 2009 | Kindle |
-| *Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered* | Austin Kleon | 2014 | Kindle |
+| [*The Levitan Pitch. Buy This Book. Win More Pitches.*](http://amzn.to/2hOQnBB) | Peter Levitan | 2014 | Kindle |
+| [*Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration*](http://amzn.to/2hORBg8) | Ed Catmull | 2009 | Kindle |
+| [*Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered*](http://amzn.to/2hOOYLt) | Austin Kleon | 2014 | Kindle |
 
 ## 2013
 | Title | Author | Published | Format |
 | -------- | ------- | ------- | ------- |
-| *The Levitan Pitch. Buy This Book. Win More Pitches.* | Peter Levitan | 2014 | Kindle |
-| *The Curious Case of Benjamin Button* | F. Scott Fitzgerald | 1922 | Kindle |
-| *The Great Gatsby* | F. Scott Fitzgerald | 1925 | Kindle |
-| *Mo' Meta Blues* | Ahmir "Questlove" Thompson | 2013 | Hardcover |
-| *Damn Good Advice (For People with Talent!): How To Unleash Your Creative Potential* | George Lois | 2012 | Paperback |
+| [*The Curious Case of Benjamin Button*](http://amzn.to/2huyfAA) | F. Scott Fitzgerald | 1922 | Kindle |
+| [*The Great Gatsby*](http://amzn.to/2hONpgt) | F. Scott Fitzgerald | 1925 | Kindle |
+| [*Mo' Meta Blues: The World According to Questlove*](http://amzn.to/2hOKxQz) | Ahmir "Questlove" Thompson | 2013 | Hardcover |
+| [*Damn Good Advice (For People with Talent!): How To Unleash Your Creative Potential*](http://amzn.to/2gKgz4a) | George Lois | 2012 | Paperback |
 
 
