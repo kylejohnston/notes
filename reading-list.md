@@ -5,6 +5,7 @@ A simple list of books I've read, organized by year. Each item includes the book
 ## 2016
 | Title | Author | Published | Format |
 | -------- | ------- | ------- | ------- |
+| [*Working the Command Line*](https://abookapart.com/products/working-the-command-line) | Jeremy Keith | 2016 | PDF |
 | [*Sapiens, A Brief History of Humankind*](http://amzn.to/2gBWFmZ) | Yuval Noah Harari | 2015 | Kindle |
 | [*Branding in five and a half steps.*](http://amzn.to/2hmpw2L) | Michael Johnson | 2016 | Hardcover |
 | [*Dark Intelligence (Transformations)*](http://amzn.to/2hmvqRA) | Neal Asher | 2015 | Kindle |
