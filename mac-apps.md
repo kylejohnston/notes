@@ -41,6 +41,7 @@ OS X El Capitan 10.11.6
 | Numbers | |
 | [Numi](http://numi.io) | Natural language calculator |
 | Skype | |
+| Skype for Business | Office365 collaboration |
 | Soundnode | Desktop client for SoundCloud |
 | [Spectacle](https://www.spectacleapp.com) | Window resizing |
 | Spotify | |
