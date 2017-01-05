@@ -31,6 +31,7 @@
 - SublimeLinter
 - Color scheme: [Predawn](http://jamiewilson.io/predawn/)
 - [Gist](https://packagecontrol.io/packages/Gist)
+- [Marked App Menu](https://github.com/icio/sublime-text-marked)
 
 **Location**  
 ~/Library/Application Support/Sublime Text 3/
