@@ -2,6 +2,11 @@
 
 A simple list of books I've read, organized by year. Each item includes the book title with a link to wherever I purchase it (usually Amazon), the author, the year published, and the format I read it in.
 
+## 2017
+| Title | Author | Published | Format |
+| -------- | ------- | ------- | ------- |
+| [*Content Chemistry, An Illustrated Handbook for Content Marketing*](https://itunes.apple.com/us/book/content-chemistry/id929221202?mt=11) | Andy Crestodina | 2014 | iBooks |
+
 ## 2016
 | Title | Author | Published | Format |
 | -------- | ------- | ------- | ------- |
