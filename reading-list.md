@@ -17,6 +17,7 @@ A simple list of books I've read, organized by year. Each item includes the book
 | [*Dark Intelligence (Transformations)*](http://amzn.to/2jdFoWD) | Neal Asher | 2015 | Kindle |
 | [*Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal*](http://amzn.to/2jdAGYV) | Nick Bilton | 2013 | Kindle |
 | [*How to Fail at Almost Everything and Still Win Big*](http://amzn.to/2jCgrRr) | Scott Adams | 2013 | Kindle |
+| [*The First 90 Days*](http://amzn.to/2ij6Mmv) | Michael D. Watkins | 2013 | Hardcover |
 | [*High Output Management*](http://amzn.to/2ij6Mmv) | Andrew S. Grove | 1983 | Paperback |
 | [*Never Split the Difference: Negotiating As If Your Life Depended On It*](http://amzn.to/2jCha4R) |  Chris Voss, Tahl Raz | 2016 | Kindle |
 | [*Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers*](http://amzn.to/2jCgIDX) | Alexander Osterwalder | 2010 | Paperback |
@@ -29,7 +30,7 @@ A simple list of books I've read, organized by year. Each item includes the book
 | [*A Technique for Producing Ideas*](http://amzn.to/2ij0eUP) | James Webb Young | 1940 | Kindle |
 | [*The Four Agreements: A Practical Guide to Personal Freedom*](http://amzn.to/2iqJBoD) | Miguel Ruiz | 1997 | Kindle |
 | [*A User Guide to the Creative Mind*](http://amzn.to/2jKtGnc) | Dave Birss | 2012 | Kindle |
-| [*It's Not How Good You Are, It's How Good You Want To Be: The world's best selling book*](http://amzn.to/2jCgEUL) | Paul Arden | 2003 | Kindle |
+| [*It's Not How Good You Are, It's How Good You Want To Be: The world's best selling book*](http://amzn.to/2jCgEUL) | Paul Arden | 2003 | Paperback |
 
 ## 2015
 | Title | Author | Published | Format |
