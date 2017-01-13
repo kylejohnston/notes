@@ -10,26 +10,26 @@ A simple list of books I've read, organized by year. Each item includes the book
 ## 2016
 | Title | Author | Published | Format |
 | -------- | ------- | ------- | ------- |
-| [*Tools of the Titans*](https://abookapart.com/products/working-the-command-line) | Tim Ferriss | 2016 | Kindle |
+| [*Tools of the Titans*](http://amzn.to/2jCiDZ6) | Tim Ferriss | 2016 | Kindle |
 | [*Working the Command Line*](https://abookapart.com/products/working-the-command-line) | Jeremy Keith | 2016 | PDF |
-| [*Sapiens, A Brief History of Humankind*](http://amzn.to/2gBWFmZ) | Yuval Noah Harari | 2015 | Kindle |
-| [*Branding in five and a half steps.*](http://amzn.to/2hmpw2L) | Michael Johnson | 2016 | Hardcover |
-| [*Dark Intelligence (Transformations)*](http://amzn.to/2hmvqRA) | Neal Asher | 2015 | Kindle |
-| [*Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal*](http://amzn.to/2huznEd) | Nick Bilton | 2013 | Kindle |
-| [*How to Fail at Almost Everything and Still Win Big*](http://amzn.to/2hmuRqH) | Scott Adams | 2013 | Kindle |
-| [*High Output Management*](http://amzn.to/2hORdyd) | Andrew S. Grove | 1983 | Paperback |
-| [*Never Split the Difference: Negotiating As If Your Life Depended On It*](http://amzn.to/2hxr9IR) |  Chris Voss, Tahl Raz | 2016 | Kindle |
-| [*Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers*](http://amzn.to/2hORqkZ) | Alexander Osterwalder | 2010 | Paperback |
-| [*Draplin Design Co.: Pretty Much Everything*](http://amzn.to/2hOJqR6) | Aaron James Draplin | 2016 | Hardcover |
-| [*Dark Value: How to find hidden value in the digital economy*](http://amzn.to/2hOHjwr) | Grant McCracken | 2016 | Kindle |
-| [*The Obstacle is the Way – the Timeless Art of Turning Trials into Triumph*](http://amzn.to/2hOElbk) | Ryan Holiday | 2014 | Kindle |
+| [*Sapiens, A Brief History of Humankind*](http://amzn.to/2imdvr3) | Yuval Noah Harari | 2015 | Kindle |
+| [*Branding in five and a half steps.*](http://amzn.to/2jdydgR) | Michael Johnson | 2016 | Hardcover |
+| [*Dark Intelligence (Transformations)*](http://amzn.to/2jdFoWD) | Neal Asher | 2015 | Kindle |
+| [*Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal*](http://amzn.to/2jdAGYV) | Nick Bilton | 2013 | Kindle |
+| [*How to Fail at Almost Everything and Still Win Big*](http://amzn.to/2jCgrRr) | Scott Adams | 2013 | Kindle |
+| [*High Output Management*](http://amzn.to/2ij6Mmv) | Andrew S. Grove | 1983 | Paperback |
+| [*Never Split the Difference: Negotiating As If Your Life Depended On It*](http://amzn.to/2jCha4R) |  Chris Voss, Tahl Raz | 2016 | Kindle |
+| [*Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers*](http://amzn.to/2jCgIDX) | Alexander Osterwalder | 2010 | Paperback |
+| [*Draplin Design Co.: Pretty Much Everything*](http://amzn.to/2impQeD) | Aaron James Draplin | 2016 | Hardcover |
+| [*Dark Value: How to find hidden value in the digital economy*](http://amzn.to/2jCfwAv) | Grant McCracken | 2016 | Kindle |
+| [*The Obstacle is the Way – the Timeless Art of Turning Trials into Triumph*](http://amzn.to/2jdFDAx) | Ryan Holiday | 2014 | Kindle |
 | [*Pricing Design*](https://abookapart.com/products/pricing-design) | Daniel Mall | 2016 | mobi |
-| [*Slaughterhouse Five*](http://amzn.to/2gMaenf) | Kurt Vonnegut | 1969 | Kindle |
-| [*Brain Surfing: The Top Marketing Strategy Minds in the World*](http://amzn.to/2hxtROz) | Heather LeFevre | 2015 | Kindle |
-| [*A Technique for Producing Ideas*](http://amzn.to/2hOP6dK) | James Webb Young | 1940 | Kindle |
-| [*The Four Agreements: A Practical Guide to Personal Freedom*](http://amzn.to/2hOMRHt) | Miguel Ruiz | 1997 | Kindle |
-| [*A User Guide to the Creative Mind*](http://amzn.to/2hOCHq4) | Dave Birss | 2012 | Kindle |
-| [*It's Not How Good You Are, It's How Good You Want To Be*](http://amzn.to/2gBFl1D) | Paul Arden | 2003 | Kindle |
+| [*Slaughterhouse Five*](http://amzn.to/2jC6mDV) | Kurt Vonnegut | 1969 | Kindle |
+| [*Brain Surfing: The Top Marketing Strategy Minds in the World*](http://amzn.to/2jCeAMs) | Heather LeFevre | 2015 | Kindle |
+| [*A Technique for Producing Ideas*](http://amzn.to/2ij0eUP) | James Webb Young | 1940 | Kindle |
+| [*The Four Agreements: A Practical Guide to Personal Freedom*](http://amzn.to/2iqJBoD) | Miguel Ruiz | 1997 | Kindle |
+| [*A User Guide to the Creative Mind*](http://amzn.to/2jKtGnc) | Dave Birss | 2012 | Kindle |
+| [*It's Not How Good You Are, It's How Good You Want To Be: The world's best selling book*](http://amzn.to/2jCgEUL) | Paul Arden | 2003 | Kindle |
 
 ## 2015
 | Title | Author | Published | Format |
