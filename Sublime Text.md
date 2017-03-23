@@ -41,7 +41,8 @@
 {
     "caret_style": "phase",  
     "color_scheme": "Packages/Predawn/predawn.tmTheme",  
-    "font_size": 17.0,  
+    "font_face": "InputMonoNarrow-Regular",
+    "font_size": 18.0,  
     "highlight_line": true,  
     "ignored_packages":  
     [  
