@@ -53,4 +53,5 @@
     "predawn_tabs_active_underline": true,  
     "predawn_tabs_medium": true,  
     "theme": "predawn.sublime-theme"  
+    "spell_check": true
 }
