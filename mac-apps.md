@@ -27,6 +27,7 @@ OS X Sierra 10.12.4
 | GitHub Desktop | |
 | Google Chrome | |
 | HazeOver | Dims all background windows |
+| Helium | Floating finder windows |
 | ImageOptim | Image compression |
 | [Keyboard Maestro](https://www.keyboardmaestro.com/) | Custom keyboard commands |
 | Keynote | |
