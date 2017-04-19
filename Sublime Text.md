@@ -25,13 +25,15 @@
 
 ## Packages
 
-- Package Control
-- Processing
-- MarkdownEditing
-- SublimeLinter
 - Color scheme: [Predawn](http://jamiewilson.io/predawn/)
 - [Gist](https://packagecontrol.io/packages/Gist)
 - [Marked App Menu](https://github.com/icio/sublime-text-marked)
+- MarkdownEditing
+- [MarkdownLivePreview](https://packagecontrol.io/packages/MarkdownLivePreview)
+- Package Control
+- Processing
+- SublimeLinter
+- WordCount
 
 **Location**  
 ~/Library/Application Support/Sublime Text 3/
