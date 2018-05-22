@@ -58,7 +58,6 @@ OS X High Sierra 10.13
 | Ember | Save images for later |
 | Evernote | |
 | Firefox | |
-| Frank DeLoupe | Color picker / loupe |
 | GIFs | |
 | GitHub Desktop | |
 | GoToMeeting | |
