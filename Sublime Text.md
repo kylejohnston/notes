@@ -25,14 +25,19 @@
 
 ## Packages
 
-- Color scheme: [Predawn](http://jamiewilson.io/predawn/)
+- Alignment
+- AlignTab
+- ColorHelper
+- Emmett
 - [Gist](https://packagecontrol.io/packages/Gist)
-- [Marked App Menu](https://github.com/icio/sublime-text-marked)
+- HTML Typographer
 - MarkdownEditing
-- [MarkdownLivePreview](https://packagecontrol.io/packages/MarkdownLivePreview)
+- Minifier
 - Package Control
+- [Predawn color scheme](http://jamiewilson.io/predawn/)
 - Processing
-- SublimeLinter
+- Python 3
+- SASS
 - WordCount
 
 **Location**  
